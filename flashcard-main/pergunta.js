@@ -6,17 +6,24 @@ criarCartao(
 )
 
 criarCartao(
-    'Geografia',
-    'Qual capital da frança é paris',
-
+    'futebol',
+    'Qual é o time que esta em primeiro colocado na tabela do brasileirão 2024?',
+    'O Botafogo'
 )
 
 criarCartao(
-    'futebol',
-    'Qual é o time que ta em primeiro na tabela do brasileirão',
-    'Botafogo',
+    'História',
+    'Em que ano o Brasil foi descoberto?',
+    'Em 22 de Abril de 1500.',
 )
+ 
 
+criarCartao(
+'estado',
+'Qual é o estado mais frio do Brasil?',
+'Santa Catarina.',
+
+)
 
 
 
