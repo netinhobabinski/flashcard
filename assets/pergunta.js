@@ -1,24 +1,31 @@
 criarCartao(
-    'Programaçao',
-    'O que python',
-    'O python é uma linguagem de programação',
+    'Matematica',
+    'Quanto é 7.8',
+    '56',
 
 )
 
 criarCartao(
     'Geografia',
-    'Qual capital da frança é paris',
+    'Qual capital da frança?',
+    'parís',
 
 )
 
 criarCartao(
-    'Programação',
-    'O que é uma função',
-    'Uma função é m bloco de código que executa alguma tarefa',
+    'Historia',
+    'Quando o Brasil foi descoberto?',
+    'em 22 de abril de 1500.',
+
+    
 )
 
+criarCartao(
+    'futebol',
+    'Que ano nasceu Neymar?',
+    '1992',
 
-
+)
 
 
 
